@@ -1,0 +1,8 @@
+# secret keys
+.env
+
+#unwanted files
+venv/
+
+# candidate files
+candidates.json
