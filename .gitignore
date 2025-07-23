@@ -6,3 +6,5 @@ venv/
 
 # candidate files
 candidates.json
+
+__pycache__/
